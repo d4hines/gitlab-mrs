@@ -1,6 +1,6 @@
 # gitlab-mrs
 
-Prints the description and URL of the MR assocaited with a given commit.
+Prints the description and URL of the MR associated with a given commit.
 
 (Currently hard-coded to work only with https://gitlab.com/tezos/tezos. Could easily be generalized.)
 
