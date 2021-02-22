@@ -1,0 +1,24 @@
+{
+  "name": "gitlab-mr",
+  "version": "1.0.0",
+  "description": "Utility for getting Gitlab MR's from Git commit SHA's",
+  "main": "index.js",
+  "bin": {"gitlab-mr": "index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d4hines/gitlab-mrs"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d4hines/gitlab-mrs/issues"
+  },
+  "homepage": "https://github.com/d4hines/gitlab-mrs",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1"
+  }
+}
