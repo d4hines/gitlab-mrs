@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/d4hines/gitlab-mrs"
   },
-  "author": "",
+  "author": "Daniel Hines",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/d4hines/gitlab-mrs/issues"
